@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hoang Van Duy</h1>
 <h3 align="center">A Ruby On Rails developer with 1 year experience who is enthusiastic about writing clean code, high sense of responsibility from Viet Nam</h3>
 
-- 🔭 I’m currently working on **HBLAB**
+- 🔭 I’m currently working on **HBLAB JSC**
 
 - 🌱 I’m currently learning **Framework JS like ReactJS, NodeJS**
 
 - 📫 How to reach me **hvduy1999@gmail.com**
 
-- ⚡ Fun fact **I can play any sports**
+- ⚡ Fun fact **My favourite animal is a dog because they're so energetic and friendly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

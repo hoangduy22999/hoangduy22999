@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Van Duy</h1>
-<h3 align="center">A Ruby On Rails developer with 1 year experience who is enthusiastic about writing clean code, high sense of responsibility from VietNam</h3>
+<h3 align="center">A Ruby On Rails developer with 1 year experience who is enthusiastic about writing clean code, high sense of responsibility from Viet Nam</h3>
 
 - 🔭 I’m currently working on **HBLAB**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hvduy1999@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I can play any sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

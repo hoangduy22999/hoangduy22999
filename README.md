@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hoang Van Duy</h1>
 <h3 align="center">A Ruby On Rails developer with 1 year experience who is enthusiastic about writing clean code, high sense of responsibility from VietNam</h3>
 
-- 🔭 I’m currently working on **IOT_Project**
+- 🔭 I’m currently working on **HBLAB**
 
-- 🌱 I’m currently learning **Frontend framwork like ReactJS**
+- 🌱 I’m currently learning **Framework JS like ReactJS, NodeJS**
 
 - 📫 How to reach me **hvduy1999@gmail.com**
 

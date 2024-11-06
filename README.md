@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Van Duy</h1>
-<h3 align="center">A Ruby On Rails developer with 1 year experience who is enthusiastic about writing clean code, high sense of responsibility from Viet Nam</h3>
+<h3 align="center">A sofware developer with 2 year experience who is enthusiastic about writing clean code, high sense of responsibility from Viet Nam</h3>
 
-- 🔭 I’m currently working on **HBLAB JSC**
+- 🔭 I’m currently working on **FPT JAPAN**
 
 - 🌱 I’m currently learning **Framework JS like ReactJS, NodeJS**
 

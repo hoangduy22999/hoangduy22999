@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Hoang Van Duy</h1>
-  <h3>A passionate Software Developer with 2 years of experience, enthusiastic about writing clean code with a high sense of responsibility — from Viet Nam 🇻🇳</h3>
+  <h3>A passionate Software Developer with 4 years of experience, enthusiastic about writing clean code with a high sense of responsibility — from Viet Nam 🇻🇳</h3>
 </div>
 
 ---

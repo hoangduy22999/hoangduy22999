@@ -77,8 +77,3 @@
 | Company | Position | Duration |
 |---------|----------|----------|
 | FPT JAPAN | Software Developer | [Start date] - Present |
----
-
-<div align="center">
-  <i>⭐ Feel free to star my repositories if you find them useful!</i>
-</div>

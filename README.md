@@ -77,8 +77,6 @@
 | Company | Position | Duration |
 |---------|----------|----------|
 | FPT JAPAN | Software Developer | [Start date] - Present |
-| [Previous company] | [Position] | [Duration] |
-
 ---
 
 <div align="center">
